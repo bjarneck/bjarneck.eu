@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD-researcher in Political Science at the Université libre de Bruxelles (ULB), affiliated with the [CEVIPOL research centre]{https://cevipol.phisoc.ulb.be/en/about}. 
+I am a PhD-researcher in Political Science at the Université libre de Bruxelles (ULB), affiliated with the [CEVIPOL research centre](https://cevipol.phisoc.ulb.be/en/about). 
 
 A data-driven personal website
 ======
