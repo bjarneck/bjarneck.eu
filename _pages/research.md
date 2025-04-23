@@ -5,7 +5,6 @@ permalink: /research/
 ---
 
 ## Publications
-
 ### Articles
 
 Eck, B. & Paulis, E. (forthcoming). Defending the Status Quo or Seeking Change? Electoral Outcomes, Affective Polarisation, and Support for Referendums. _British Journal of Political Science_.
@@ -22,8 +21,6 @@ Eck, B. & Vanagt, J. (forthcoming). The Low Countries (Belgium & the Netherlands
 
 
 ## Work in Progress
-
-
 ### Under review 
 
 
