@@ -14,6 +14,7 @@ Bjarn Eck & Elie Michel. (2024). Towards a Polarised Electorate? How Polarisatio
 
 
 Bjarn Eck & Sven Schreurs. (2024). Unequal perspectives? Income inequality as a benchmark for support for European integration. _European Union Politics_.
+
 [PDF](/assets/EckSchreurs_EUP_2024.pdf) [DOI](https://doi.org/10.1177/14651165231226054)
 
 
