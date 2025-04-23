@@ -1,6 +1,8 @@
 ---
 layout: single
 permalink: /research/
+title: ""
+hide_title: true
 ---
 
 ## Publications
