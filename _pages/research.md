@@ -11,11 +11,11 @@ hide_title: true
 Bjarn Eck & Emilien Paulis. (forthcoming). Defending the Status Quo or Seeking Change? Electoral Outcomes, Affective Polarisation, and Support for Referendums. _British Journal of Political Science_.
 
 Bjarn Eck & Elie Michel. (2024). Towards a Polarised Electorate? How Polarisation Affects Turnout Decisions in the Belgian Context of Compulsory Voting. _Politics of the Low Countries_.  
-[PDF](/assets/EckMichel_PLC_2024.pdf) [DOI](https://doi.org/10.5553/PLC/.000079) [Replication material](https://osf.io/8uqys/?view_only=7ff818b7f54e42a788995bea4ed82df6)
+[PDF](/assets/EckMichel_PLC_2024.pdf)    [DOI](https://doi.org/10.5553/PLC/.000079)    [Replication material](https://osf.io/8uqys/?view_only=7ff818b7f54e42a788995bea4ed82df6)
 
 
 Bjarn Eck & Sven Schreurs. (2024). Unequal perspectives? Income inequality as a benchmark for support for European integration. _European Union Politics_.  
-[PDF](/assets/EckSchreurs_EUP_2024.pdf) [DOI](https://doi.org/10.1177/14651165231226054)
+[PDF](/assets/EckSchreurs_EUP_2024.pdf)  [DOI](https://doi.org/10.1177/14651165231226054)
 
 
 
