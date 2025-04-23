@@ -23,7 +23,7 @@ disable_theme_toggle: true
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "assets/profile.jpg"
+  avatar           : "profile.jpg"
   name             : "Bjarn Eck"
   pronouns         : # example: "she/her"  
   bio              : "PhD-researcher"
