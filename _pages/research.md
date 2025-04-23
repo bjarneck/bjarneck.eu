@@ -14,7 +14,6 @@ Bjarn Eck & Elie Michel. (2024). Towards a Polarised Electorate? How Polarisatio
 
 
 Bjarn Eck & Sven Schreurs. (2024). Unequal perspectives? Income inequality as a benchmark for support for European integration. _European Union Politics_.
-
 [PDF](/assets/EckSchreurs_EUP_2024.pdf) [DOI](https://doi.org/10.1177/14651165231226054)
 
 
@@ -25,6 +24,18 @@ Bjarn Eck & Jochem Vanagt. (forthcoming). The Low Countries (Belgium & the Nethe
 
 ## Work in Progress
 ### Under review 
+Breaking the Stalemate: Europeans’ Preferences to Expand, Cut, or Sustain Support to Ukraine. _With Elie Michel._ (**R&R**)
+
+The Impact of Party-Voter Congruence on Affective Polarization: Evidence from Belgium. _With Elie Michel & Emilie van Haute._
 
 
 ### Working papers (ordered by progress)
+Election Salience Revisited: How Campaigns and Results (Do Not) Boost Affective Polarization. _With Elie Michel._
+
+Happiness, Anger, and Satisfaction with Democracy: Unravelling the Emotional Drivers of the Winner-Loser Gap.
+
+Ideological, Affective, and EU Polarisation: Mobilising Voters in European Parliament Elections.
+
+Affective Polarization and Support for Political Violence. _With Damien Bol & Diane Bolet._
+
+Knowledge of Compulsory Voting Rules and Turnout. _With Ruth Dassonneville._
