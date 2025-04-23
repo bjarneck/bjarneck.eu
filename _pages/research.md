@@ -22,6 +22,7 @@ Bjarn Eck & Sven Schreurs. (2024). Unequal perspectives? Income inequality as a 
 Bjarn Eck & Jochem Vanagt. (forthcoming). The Low Countries (Belgium & the Netherlands): Balancing National Diversity with Supranational Integration. In T. D. Lancaster (Ed.), Comparative European Politics. _Routledge_.
 
 
+
 ## Work in Progress
 ### Under review 
 Breaking the Stalemate: Europeans’ Preferences to Expand, Cut, or Sustain Support to Ukraine. _With Elie Michel._ (**R&R**)
