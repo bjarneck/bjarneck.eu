@@ -13,7 +13,6 @@ permalink: /research/
 # Publications
 
 ## Articles
-# Publications
 
 **Eck, B. & Paulis, E.** (forthcoming). *Defending the Status Quo or Seeking Change? Electoral Outcomes, Affective Polarisation, and Support for Referendums*. _British Journal of Political Science_.
 
@@ -25,7 +24,7 @@ permalink: /research/
 
 
 ## Book chapters 
-
+**Eck, B. & Vanagt, J.** (forthcoming). *The Low Countries (Belgium & the Netherlands): Balancing National Diversity with Supranational Integration*. In T. D. Lancaster (Ed.), _Comparative European Politics_. Routledge.
 
 
 # Work in Progress
