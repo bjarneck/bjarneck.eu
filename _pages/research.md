@@ -4,9 +4,9 @@ title: "Research"
 permalink: /research/
 ---
 
-# Publications
+## Publications
 
-## Articles
+### Articles
 
 Eck, B. & Paulis, E. (forthcoming). *Defending the Status Quo or Seeking Change? Electoral Outcomes, Affective Polarisation, and Support for Referendums*. _British Journal of Political Science_.
 
@@ -17,14 +17,14 @@ Eck, B. & Schreurs, S. (2024). *Unequal perspectives? Income inequality as a ben
 [https://doi.org/10.1177/14651165231226054](https://doi.org/10.1177/14651165231226054)
 
 
-## Book chapters 
+### Book chapters 
 Eck, B. & Vanagt, J. (forthcoming). *The Low Countries (Belgium & the Netherlands): Balancing National Diversity with Supranational Integration*. In T. D. Lancaster (Ed.), _Comparative European Politics_. Routledge.
 
 
-# Work in Progress
+## Work in Progress
 
 
-## Under review 
+### Under review 
 
 
-## Working papers (ordered by progress)
+### Working papers (ordered by progress)
