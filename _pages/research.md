@@ -30,7 +30,7 @@ Breaking the Stalemate: Europeans’ Preferences to Expand, Cut, or Sustain Supp
 _With Elie Michel._ **R&R**
 
 The Impact of Party-Voter Congruence on Affective Polarization: Evidence from Belgium.     
-_With Elie Michel & Emilie van Haute._
+_With Elie Michel & Emilie van Haute._ **R&R**
 
 
 ### Working papers (ordered by progress)
