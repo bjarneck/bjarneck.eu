@@ -7,6 +7,7 @@ hide_title: true
 
 ## Publications
 ### Articles
+Bjarn Eck & Elie Michel. (forthcoming). Breaking the Stalemate: Europeans’ Preferences to Expand, Cut, or Sustain Support to Ukraine. _Journal of European Public Policy_.
 
 Bjarn Eck & Emilien Paulis. (forthcoming). Defending the Status Quo or Seeking Change? Electoral Outcomes, Affective Polarisation, and Support for Referendums. _British Journal of Political Science_.
 
@@ -26,17 +27,13 @@ Bjarn Eck & Jochem Vanagt. (forthcoming). The Low Countries (Belgium & the Nethe
 
 ## Work in Progress
 ### Under review 
-Breaking the Stalemate: Europeans’ Preferences to Expand, Cut, or Sustain Support to Ukraine. 
-_With Elie Michel._ **R&R**
-
 The Impact of Party-Voter Congruence on Affective Polarization: Evidence from Belgium.     
 _With Elie Michel & Emilie van Haute._ **R&R**
 
-
-### Working papers (ordered by progress)
-Election Salience Revisited: How Campaigns and Results (Do Not) Boost Affective Polarization. 
+Election Salience Revisited: How Elections (Do Not) Boost Affective Polarization. 
 _With Elie Michel._
 
+### Working papers (ordered by progress)
 Happiness, Anger, and Satisfaction with Democracy: Unravelling the Emotional Drivers of the Winner-Loser Gap.
 
 Ideological, Affective, and EU Polarisation: Mobilising Voters in European Parliament Elections.
