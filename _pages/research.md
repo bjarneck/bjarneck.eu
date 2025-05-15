@@ -9,7 +9,9 @@ hide_title: true
 ### Articles
 Bjarn Eck & Elie Michel. (forthcoming). Breaking the Stalemate: Europeans’ Preferences to Expand, Cut, or Sustain Support to Ukraine. _Journal of European Public Policy_.
 
-Bjarn Eck & Emilien Paulis. (forthcoming). Defending the Status Quo or Seeking Change? Electoral Outcomes, Affective Polarisation, and Support for Referendums. _British Journal of Political Science_.
+Bjarn Eck & Emilien Paulis. (2025). Defending the Status Quo or Seeking Change? Electoral Outcomes, Affective Polarisation, and Support for Referendums. _British Journal of Political Science_.
+[PDF](/assets/defending-the-status-quo-or-seeking-change-electoral-outcomes-affective-polarization-and-support-for-referendums.pdf.pdf) &nbsp;&nbsp;&nbsp; [DOI](https://doi.org/10.1017/S0007123425000365) &nbsp;&nbsp;&nbsp; [Replication material](https://doi.org/10.7910/DVN/VECW81)
+
 
 Bjarn Eck & Elie Michel. (2024). Towards a Polarised Electorate? How Polarisation Affects Turnout Decisions in the Belgian Context of Compulsory Voting. _Politics of the Low Countries_.  
 [PDF](/assets/EckMichel_PLC_2024.pdf) &nbsp;&nbsp;&nbsp; [DOI](https://doi.org/10.5553/PLC/.000079) &nbsp;&nbsp;&nbsp; [Replication material](https://osf.io/8uqys/?view_only=7ff818b7f54e42a788995bea4ed82df6)
