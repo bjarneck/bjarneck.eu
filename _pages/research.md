@@ -7,10 +7,11 @@ hide_title: true
 
 ## Publications
 ### Articles
-Bjarn Eck & Elie Michel. (forthcoming). Breaking the Stalemate: Europeans’ Preferences to Expand, Cut, or Sustain Support to Ukraine. _Journal of European Public Policy_.
+Bjarn Eck & Elie Michel. (2025). Breaking the Stalemate: Europeans’ Preferences to Expand, Cut, or Sustain Support to Ukraine. _Journal of European Public Policy_.  
+[PDF](/assets/EckMichel_JEPP_2025.pdf) &nbsp;&nbsp;&nbsp; [DOI](https://doi.org/10.1080/13501763.2025.2509755) &nbsp;&nbsp;&nbsp; [Replication material](https://tinyurl.com/mpmyzpf9)
 
 Bjarn Eck & Emilien Paulis. (2025). Defending the Status Quo or Seeking Change? Electoral Outcomes, Affective Polarization, and Support for Referendums. _British Journal of Political Science_.  
-[PDF](/assets/defending-the-status-quo-or-seeking-change-electoral-outcomes-affective-polarization-and-support-for-referendums.pdf.pdf) &nbsp;&nbsp;&nbsp; [DOI](https://doi.org/10.1017/S0007123425000365) &nbsp;&nbsp;&nbsp; [Replication material](https://doi.org/10.7910/DVN/VECW81)
+[PDF](/assets/defending-the-status-quo-or-seeking-change-electoral-outcomes-affective-polarization-and-support-for-referendums.pdf) &nbsp;&nbsp;&nbsp; [DOI](https://doi.org/10.1017/S0007123425000365) &nbsp;&nbsp;&nbsp; [Replication material](https://doi.org/10.7910/DVN/VECW81)
 
 
 Bjarn Eck & Elie Michel. (2024). Towards a Polarised Electorate? How Polarisation Affects Turnout Decisions in the Belgian Context of Compulsory Voting. _Politics of the Low Countries_.  
