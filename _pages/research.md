@@ -44,7 +44,7 @@ Soft Nudges, Hard Reality: Government Turnout Measures Don't Offset the Impact o
 _With Ruth Dassonneville and Bram Wauters_
 
 ### Working papers (ordered by progress)
-Affective Polarization and Support for Political Violence.      
+Curbing Citizen Support for Violence Against Politicians.      
 _With Damien Bol & Diane Bolet._
 
 Happiness, Anger, and Satisfaction with Democracy: Unravelling the Emotional Drivers of the Winner-Loser Gap.
