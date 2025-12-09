@@ -28,8 +28,8 @@ Bjarn Eck & Jochem Vanagt. (forthcoming). The Low Countries (Belgium & the Nethe
 
 
 ### Datasets 
-Bjarn Eck et al. (2025). NotLikeUs Panel Survey Dataset Belgian 2024 Elections. _Social Sciences and Digital Humanities Archive – SODHA_. 
- [DOI](https://doi.org/10.34934/DVN/KYWPSO)
+Bjarn Eck et al. (2025). NotLikeUs Panel Survey Dataset Belgian 2024 Elections. _Social Sciences and Digital Humanities Archive – SODHA_.   
+[DOI](https://doi.org/10.34934/DVN/KYWPSO)
 
 
 ## Work in Progress
