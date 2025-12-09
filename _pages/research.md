@@ -34,22 +34,22 @@ Bjarn Eck et al. (2025). NotLikeUs Panel Survey Dataset Belgian 2024 Elections. 
 
 ## Work in Progress
 ### Under review 
-Election Salience Revisited: How Elections (Do Not) Boost Affective Polarization. 
+Election Salience Revisited: How Elections (Do Not) Boost Affective Polarization.     
 _With Elie Michel._
 
-Re-Ostracizing the Radical Right? Quasi-Experimental Evidence from an Election Panel.
+Re-Ostracizing the Radical Right? Quasi-Experimental Evidence from an Election Panel.    
 _With Jochem Vanagt, Laura Jacobs, and Jean-Benoit Pilet_
 
-Soft Nudges, Hard Reality: Government Turnout Measures Don't Offset the Impact of Ending Compulsory Voting.
+Soft Nudges, Hard Reality: Government Turnout Measures Don't Offset the Impact of Ending Compulsory Voting.     
 _With Ruth Dassonneville and Bram Wauters_
 
 ### Working papers (ordered by progress)
-Affective Polarization and Support for Political Violence.    
+Affective Polarization and Support for Political Violence.      
 _With Damien Bol & Diane Bolet._
 
 Happiness, Anger, and Satisfaction with Democracy: Unravelling the Emotional Drivers of the Winner-Loser Gap.
 
 Ideological, Affective, and EU Polarisation: Mobilising Voters in European Parliament Elections.
 
-Knowledge of Compulsory Voting Rules and Turnout.     
+Knowledge of Compulsory Voting Rules and Turnout.        
 _With Ruth Dassonneville._
