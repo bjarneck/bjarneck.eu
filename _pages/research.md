@@ -27,6 +27,10 @@ Bjarn Eck & Sven Schreurs. (2024). Unequal perspectives? Income inequality as a 
 Bjarn Eck & Jochem Vanagt. (forthcoming). The Low Countries (Belgium & the Netherlands): Balancing National Diversity with Supranational Integration. In T. D. Lancaster (Ed.), Comparative European Politics. _Routledge_.
 
 
+### Datasets 
+Bjarn Eck et al. (2025). NotLikeUs Panel Survey Dataset Belgian 2024 Elections. _Social Sciences and Digital Humanities Archive – SODHA_.
+[DOI](https://doi.org/10.34934/DVN/KYWPSO)
+
 
 ## Work in Progress
 ### Under review 
