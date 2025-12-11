@@ -7,7 +7,8 @@ hide_title: true
 
 ## Publications
 ### Articles
-Bjarn Eck, Elie Michel, & Emilie van Haute. (forthcoming). The Impact of Party-Voter Congruence on Affective Polarization: Evidence from Belgium. _Journal of Elections, Public Opinion and Parties_.
+Bjarn Eck, Elie Michel, & Emilie van Haute. (forthcoming). The Impact of Party-Voter Congruence on Affective Polarization: Evidence from Belgium. _Journal of Elections, Public Opinion and Parties_.     
+[DOI](https://doi.org/10.1080/17457289.2025.2598210) &nbsp;&nbsp;&nbsp; [Replication material](https://osf.io/2yb6e/overview?view_only=ea337a975e7d48c6a89e803ef07570c7)
 
 Bjarn Eck & Elie Michel. (2025). Breaking the Stalemate: Europeans’ Preferences to Expand, Cut, or Sustain Support to Ukraine. _Journal of European Public Policy_.  
 [PDF](/assets/EckMichel_JEPP_2025.pdf) &nbsp;&nbsp;&nbsp; [DOI](https://doi.org/10.1080/13501763.2025.2509755) &nbsp;&nbsp;&nbsp; [Replication material](https://tinyurl.com/mpmyzpf9)
