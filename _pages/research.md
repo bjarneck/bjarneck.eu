@@ -35,9 +35,6 @@ Bjarn Eck et al. (2025). NotLikeUs Panel Survey Dataset Belgian 2024 Elections. 
 
 ## Work in Progress
 ### Under review 
-Election Salience Revisited: How Elections (Do Not) Boost Affective Polarization.     
-_With Elie Michel._
-
 Re-Ostracizing the Radical Right? Quasi-Experimental Evidence from an Election Panel.    
 _With Jochem Vanagt, Laura Jacobs, and Jean-Benoit Pilet_
 
@@ -45,6 +42,9 @@ Soft Nudges, Hard Reality: Government Turnout Measures Don't Offset the Impact o
 _With Ruth Dassonneville and Bram Wauters_
 
 ### Working papers (ordered by progress)
+Election Salience Revisited: How Elections (Do Not) Boost Affective Polarization.     
+_With Elie Michel._
+
 Curbing Citizen Support for Violence Against Politicians.      
 _With Damien Bol & Diane Bolet._
 
