@@ -41,10 +41,10 @@ _With Jochem Vanagt, Laura Jacobs, and Jean-Benoit Pilet_
 Soft Nudges, Hard Reality: Government Turnout Measures Don't Offset the Impact of Ending Compulsory Voting.     
 _With Ruth Dassonneville and Bram Wauters_
 
-### Working papers (ordered by progress)
 Election Salience Revisited: How Elections (Do Not) Boost Affective Polarization.     
 _With Elie Michel._
 
+### Working papers (ordered by progress)
 Curbing Citizen Support for Violence Against Politicians.      
 _With Damien Bol & Diane Bolet._
 
