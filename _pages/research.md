@@ -7,6 +7,9 @@ hide_title: true
 
 ## Publications
 ### Articles
+Fernando Feitosa, Bjarn Eck, Jean-Benoit Pilet, and Éric Bélanger. Does (dis)liking the governing parties correlate with democratic (dis)satisfaction? _International Political Science Review_.  
+[DOI](https://doi.org/10.1177/01925121261423135).
+
 Bjarn Eck, Elie Michel, & Emilie van Haute. (2025). The Impact of Party-Voter Congruence on Affective Polarization: Evidence from Belgium. _Journal of Elections, Public Opinion and Parties_.     
 [DOI](https://doi.org/10.1080/17457289.2025.2598210) &nbsp;&nbsp;&nbsp; [Replication material](https://osf.io/2yb6e/overview?view_only=ea337a975e7d48c6a89e803ef07570c7)
 
@@ -35,18 +38,23 @@ Bjarn Eck et al. (2025). NotLikeUs Panel Survey Dataset Belgian 2024 Elections. 
 
 ## Work in Progress
 ### Under review 
-Re-Ostracizing the Radical Right? Quasi-Experimental Evidence from an Election Panel.    
-_With Jochem Vanagt, Laura Jacobs, and Jean-Benoit Pilet_
+Election Salience Revisited: How Elections (Do Not) Boost Affective Polarization.     
+_With Elie Michel_.
 
 Soft Nudges, Hard Reality: Government Turnout Measures Don't Offset the Impact of Ending Compulsory Voting.     
-_With Ruth Dassonneville and Bram Wauters_
+_With Ruth Dassonneville and Bram Wauters_.
 
-Election Salience Revisited: How Elections (Do Not) Boost Affective Polarization.     
-_With Elie Michel._
+PRRP Identity and Sense of Understanding for Citizens Who Engage in Political Violence.
+_With Fernando Feitosa and Jean-Benoit Pilet_.
+
+Curbing Citizen Support for Violence Against Politicians.      
+_With Damien Bol & Diane Bolet_.
+
+The Hollowing of Consociational Politics: Far-Right Surges and Mainstream Losses in the 2024 Belgian and 2025 Dutch Elections.
 
 ### Working papers (ordered by progress)
-Curbing Citizen Support for Violence Against Politicians.      
-_With Damien Bol & Diane Bolet._
+Re-Ostracizing the Radical Right? Quasi-Experimental Evidence from an Election Panel.    
+_With Jochem Vanagt, Laura Jacobs, and Jean-Benoit Pilet_
 
 Happiness, Anger, and Satisfaction with Democracy: Unravelling the Emotional Drivers of the Winner-Loser Gap.
 
