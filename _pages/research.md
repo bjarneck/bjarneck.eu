@@ -44,7 +44,7 @@ _With Elie Michel_.
 Soft Nudges, Hard Reality: Government Turnout Measures Don't Offset the Impact of Ending Compulsory Voting.     
 _With Ruth Dassonneville and Bram Wauters_.
 
-PRRP Identity and Sense of Understanding for Citizens Who Engage in Political Violence.
+PRRP Identity and Sense of Understanding for Citizens Who Engage in Political Violence.         
 _With Fernando Feitosa and Jean-Benoit Pilet_.
 
 Curbing Citizen Support for Violence Against Politicians.      
