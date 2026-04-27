@@ -8,7 +8,7 @@ hide_title: true
 ## Publications
 ### Articles
 Fernando Feitosa, Bjarn Eck, Jean-Benoit Pilet, and Éric Bélanger. Does (dis)liking the governing parties correlate with democratic (dis)satisfaction? _International Political Science Review_.  
-[DOI](https://doi.org/10.1177/01925121261423135).
+[DOI](https://doi.org/10.1177/01925121261423135)
 
 Bjarn Eck, Elie Michel, & Emilie van Haute. (2025). The Impact of Party-Voter Congruence on Affective Polarization: Evidence from Belgium. _Journal of Elections, Public Opinion and Parties_.     
 [DOI](https://doi.org/10.1080/17457289.2025.2598210) &nbsp;&nbsp;&nbsp; [Replication material](https://osf.io/2yb6e/overview?view_only=ea337a975e7d48c6a89e803ef07570c7)
