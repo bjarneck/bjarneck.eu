@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my CV [here](/assets/CV_Eck1225.pdf).
+You can download my CV [here](/assets/CV_Eck0426.pdf).
