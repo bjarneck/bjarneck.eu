@@ -47,12 +47,12 @@ _With Ruth Dassonneville and Bram Wauters_.
 PRRP Identity and Sense of Understanding for Citizens Who Engage in Political Violence.         
 _With Fernando Feitosa and Jean-Benoit Pilet_.
 
-Curbing Citizen Support for Violence Against Politicians.      
-_With Damien Bol & Diane Bolet_.
-
 The Hollowing of Consociational Politics: Far-Right Surges and Mainstream Losses in the 2024 Belgian and 2025 Dutch Elections.
 
 ### Working papers (ordered by progress)
+Curbing Citizen Support for Violence Against Politicians.      
+_With Damien Bol & Diane Bolet_.
+
 Re-Ostracizing the Radical Right? Quasi-Experimental Evidence from an Election Panel.    
 _With Jochem Vanagt, Laura Jacobs, and Jean-Benoit Pilet_
 
@@ -60,5 +60,5 @@ Happiness, Anger, and Satisfaction with Democracy: Unravelling the Emotional Dri
 
 Ideological, Affective, and EU Polarisation: Mobilising Voters in European Parliament Elections.
 
-Knowledge of Compulsory Voting Rules and Turnout.        
+The Causal Effect of Knowledge of Compulsory Voting Rules on Turnout.       
 _With Ruth Dassonneville._
