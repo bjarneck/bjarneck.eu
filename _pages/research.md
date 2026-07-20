@@ -7,6 +7,9 @@ hide_title: true
 
 ## Publications
 ### Articles
+Bjarn Eck and Elie Michel. Election Salience Revisited: How Elections (Do Not) Boost Affective Polarization. _Electoral Studies_.
+[DOI](https://doi.org/10.1016/j.electstud.2026.103116) &nbsp;&nbsp;&nbsp; [Replication material](https://osf.io/vqtxj/overview?view_only=06b81befad914323aa3cff98fb142474)
+
 Fernando Feitosa, Bjarn Eck, Jean-Benoit Pilet, and Éric Bélanger. Does (dis)liking the governing parties correlate with democratic (dis)satisfaction? _International Political Science Review_.  
 [DOI](https://doi.org/10.1177/01925121261423135)
 
@@ -38,9 +41,6 @@ Bjarn Eck et al. (2025). NotLikeUs Panel Survey Dataset Belgian 2024 Elections. 
 
 ## Work in Progress
 ### Under review 
-Election Salience Revisited: How Elections (Do Not) Boost Affective Polarization.     
-_With Elie Michel_.
-
 Soft Nudges, Hard Reality: Government Turnout Measures Don't Offset the Impact of Ending Compulsory Voting.     
 _With Ruth Dassonneville and Bram Wauters_.
 
