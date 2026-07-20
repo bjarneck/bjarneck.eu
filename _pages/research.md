@@ -7,7 +7,7 @@ hide_title: true
 
 ## Publications
 ### Articles
-Bjarn Eck and Elie Michel. Election Salience Revisited: How Elections (Do Not) Boost Affective Polarization. _Electoral Studies_.
+Bjarn Eck and Elie Michel. Election Salience Revisited: How Elections (Do Not) Boost Affective Polarization. _Electoral Studies_.          
 [DOI](https://doi.org/10.1016/j.electstud.2026.103116) &nbsp;&nbsp;&nbsp; [Replication material](https://osf.io/vqtxj/overview?view_only=06b81befad914323aa3cff98fb142474)
 
 Fernando Feitosa, Bjarn Eck, Jean-Benoit Pilet, and Éric Bélanger. Does (dis)liking the governing parties correlate with democratic (dis)satisfaction? _International Political Science Review_.  
