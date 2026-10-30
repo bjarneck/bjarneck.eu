@@ -7,10 +7,15 @@ hide_title: true
 
 ## Publications
 ### Articles
-Bjarn Eck and Elie Michel. Election Salience Revisited: How Elections (Do Not) Boost Affective Polarization. _Electoral Studies_.          
+Jochem Vanagt, Laura Jacobs, Bjarn Eck, and Jean-Benoit Pilet. (forthcoming). Reversing Radical-Right Normalization: Evidence from a Natural Quasi-Experiment. _Journal of European Public Policy_.
+
+Bjarn Eck. Continued Pressure on the Consociational Model: Electoral Fragmentation and Far-Right Dynamics in the 2024 Belgian and 2025 Dutch Elections. (2026). _Journal of Common Marekt Studies_.          
+[DOI](https://doi.org/10.1111/jcms.70171) 
+
+Bjarn Eck and Elie Michel. (2026). Election Salience Revisited: How Elections (Do Not) Boost Affective Polarization. _Electoral Studies_.          
 [DOI](https://doi.org/10.1016/j.electstud.2026.103116) &nbsp;&nbsp;&nbsp; [Replication material](https://osf.io/vqtxj/overview?view_only=06b81befad914323aa3cff98fb142474)
 
-Fernando Feitosa, Bjarn Eck, Jean-Benoit Pilet, and Éric Bélanger. Does (dis)liking the governing parties correlate with democratic (dis)satisfaction? _International Political Science Review_.  
+Fernando Feitosa, Bjarn Eck, Jean-Benoit Pilet, and Éric Bélanger. (2026). Does (dis)liking the governing parties correlate with democratic (dis)satisfaction? _International Political Science Review_.  
 [DOI](https://doi.org/10.1177/01925121261423135)
 
 Bjarn Eck, Elie Michel, & Emilie van Haute. (2025). The Impact of Party-Voter Congruence on Affective Polarization: Evidence from Belgium. _Journal of Elections, Public Opinion and Parties_.     
@@ -44,18 +49,11 @@ Bjarn Eck et al. (2025). NotLikeUs Panel Survey Dataset Belgian 2024 Elections. 
 Soft Nudges, Hard Reality: Government Turnout Measures Don't Offset the Impact of Ending Compulsory Voting.     
 _With Ruth Dassonneville and Bram Wauters_.
 
-PRRP Identity and Sense of Understanding for Citizens Who Engage in Political Violence.         
-_With Fernando Feitosa and Jean-Benoit Pilet_.
-
-The Hollowing of Consociational Politics: Far-Right Surges and Mainstream Losses in the 2024 Belgian and 2025 Dutch Elections.
-
-### Working papers (ordered by progress)
 Curbing Citizen Support for Violence Against Politicians.      
 _With Damien Bol & Diane Bolet_.
 
-Re-Ostracizing the Radical Right? Quasi-Experimental Evidence from an Election Panel.    
-_With Jochem Vanagt, Laura Jacobs, and Jean-Benoit Pilet_
 
+### Working papers (ordered by progress)
 Happiness, Anger, and Satisfaction with Democracy: Unravelling the Emotional Drivers of the Winner-Loser Gap.
 
 Ideological, Affective, and EU Polarisation: Mobilising Voters in European Parliament Elections.
