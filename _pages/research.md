@@ -9,7 +9,7 @@ hide_title: true
 ### Articles
 Jochem Vanagt, Laura Jacobs, Bjarn Eck, and Jean-Benoit Pilet. (forthcoming). Reversing Radical-Right Normalization: Evidence from a Natural Quasi-Experiment. _Journal of European Public Policy_.
 
-Bjarn Eck. Continued Pressure on the Consociational Model: Electoral Fragmentation and Far-Right Dynamics in the 2024 Belgian and 2025 Dutch Elections. (2026). _Journal of Common Market Studies_. 
+Bjarn Eck. Continued Pressure on the Consociational Model: Electoral Fragmentation and Far-Right Dynamics in the 2024 Belgian and 2025 Dutch Elections. (2026). _Journal of Common Market Studies_.          
 [DOI](https://doi.org/10.1111/jcms.70171) 
 
 Bjarn Eck and Elie Michel. (2026). Election Salience Revisited: How Elections (Do Not) Boost Affective Polarization. _Electoral Studies_.          
