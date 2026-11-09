@@ -7,6 +7,8 @@ hide_title: true
 
 ## Publications
 ### Articles
+Ruth Dassonneville, Bjarn Eck, and Bram Wauters. (forthcoming) Soft Nudges, Hard Reality: Government Turnout Measures Don't Offset the Impact of Ending Compulsory Voting. _European Journal of Political Research_.   
+
 Jochem Vanagt, Laura Jacobs, Bjarn Eck, and Jean-Benoit Pilet. (forthcoming). Reversing Radical-Right Normalization: Evidence from a Natural Quasi-Experiment. _Journal of European Public Policy_.
 
 Bjarn Eck. Continued Pressure on the Consociational Model: Electoral Fragmentation and Far-Right Dynamics in the 2024 Belgian and 2025 Dutch Elections. (2026). _Journal of Common Market Studies_.          
@@ -46,8 +48,6 @@ Bjarn Eck et al. (2025). NotLikeUs Panel Survey Dataset Belgian 2024 Elections. 
 
 ## Work in Progress
 ### Under review 
-Soft Nudges, Hard Reality: Government Turnout Measures Don't Offset the Impact of Ending Compulsory Voting.     
-_With Ruth Dassonneville and Bram Wauters_.
 
 Curbing Citizen Support for Violence Against Politicians.      
 _With Damien Bol & Diane Bolet_.
