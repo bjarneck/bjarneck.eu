@@ -7,7 +7,7 @@ hide_title: true
 
 ## Publications
 ### Articles
-Ruth Dassonneville, Bjarn Eck, and Bram Wauters. (forthcoming) Soft Nudges, Hard Reality: Government Turnout Measures Don't Offset the Impact of Ending Compulsory Voting. _European Journal of Political Research_.   
+Ruth Dassonneville, Bjarn Eck, and Bram Wauters. (forthcoming). Soft Nudges, Hard Reality: Government Turnout Measures Don't Offset the Impact of Ending Compulsory Voting. _European Journal of Political Research_.   
 
 Jochem Vanagt, Laura Jacobs, Bjarn Eck, and Jean-Benoit Pilet. (forthcoming). Reversing Radical-Right Normalization: Evidence from a Natural Quasi-Experiment. _Journal of European Public Policy_.
 
